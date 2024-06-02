@@ -36,7 +36,6 @@ Para executar os testes:
 -Axios (para fazer requisições HTTP)
 
 Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias.
-
+Contribuições são bem-vindas! 
 Licença
 Este projeto está licenciado sob a MIT License.
